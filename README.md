@@ -43,3 +43,5 @@ After checking the alignment, both halves were glued together and 2 metal pins w
 Leading to the final product (<a class="top-link" href="#top">Back to top</a> )
 
 <mark> __Note:__ I would highly recommend a few coats of wood sealant (and stain if you want) if you live in a humid climate to avoid any moisture ingress to the wood which may cause strength degeneration and/or mold. <mark>
+
+___I have included .STEP files for both the whole board and the split version that I used when cutting___
