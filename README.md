@@ -15,6 +15,8 @@ I started by finding the edge sizes used in common fingerboards like the beastma
 <img width="1548" height="898" alt="image" src="https://github.com/user-attachments/assets/f4ce8da7-d69a-41ef-9f66-e3ada19a4f2b" />
 Image Credits: https://www.atamanroman.dev/beastmaker-1000-2000-holds-and-edge-sizes/
 
+<mark> Note that the edge sizes in my board are different to the ones shown in the above diagram <mark>
+
 ### Mockup in CAD:
 I found a pre-existing model online ([Link](https://3dwarehouse.sketchup.com/model/uf5862615-5254-4e51-a0e1-8715ed2d2a9b/Beastmaker-2000-hangboard?hl=en)) and used it to judge roughly the dimensions of the holds as I did not have access to a physical board.
 
