@@ -20,7 +20,7 @@ I found a pre-existing model online ([Link](https://3dwarehouse.sketchup.com/mod
 
 <mark> __Note:__ The router and milling bits I had access to could not have machined the board as a whole so I had to machine two halves seperately then glue and dowel them back together <mark>
 
-I then proceeded to model [my own board](./Hanger200.step) in CAD and cut a foam test piece to check the toolpath
+I then proceeded to model [my own board](./Hanger200.STEP) in CAD and cut a foam test piece to check the toolpath
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/9c68e62b-b976-439d-888d-00c60be86eb7" />
 
@@ -42,4 +42,4 @@ After checking the alignment, both halves were glued together and 2 metal pins w
 
 Leading to the final product (<a class="top-link" href="#top">Back to top</a> )
 
-<mark> __Note:__ I would highly recommend a few coats of wood sealant (and stain if you want) if you live in a humid climate to avoid any moisture ingress to the wood which may cause strength degeneration and mold. <mark>
+<mark> __Note:__ I would highly recommend a few coats of wood sealant (and stain if you want) if you live in a humid climate to avoid any moisture ingress to the wood which may cause strength degeneration and/or mold. <mark>
